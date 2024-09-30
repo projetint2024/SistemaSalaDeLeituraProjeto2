@@ -1,0 +1,7 @@
+pip install Flask Flask-PyMySQL Flask-Paginate
+
+
+pip install mysql-connector-python
+
+
+pip install pymysql
